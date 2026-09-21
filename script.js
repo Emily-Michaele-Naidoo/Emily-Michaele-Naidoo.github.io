@@ -137,8 +137,8 @@ if ('IntersectionObserver' in window) {
 //
 // This portfolio's own repo is automatically excluded from the list (see
 // EXCLUDE_REPO_NAMES below) so it doesn't show up as one of "her projects".
-const GITHUB_OWNER = 'Emily-Michael-Naidoo';   // GitHub account to pull repos from
-const GITHUB_REPO   = 'Emily-Michael-Naidoo.github.io'; // this portfolio's own repo — excluded from the project list
+const GITHUB_OWNER = 'Emily-Michaele-Naidoo';   // GitHub account to pull repos from
+const GITHUB_REPO   = 'Emily-Michaele-Naidoo.github.io'; // this portfolio's own repo — excluded from the project list
 
 const EXCLUDE_FORKS = true;      // hide forked repos (not original work)
 const EXCLUDE_ARCHIVED = true;   // hide archived/retired repos
